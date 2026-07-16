@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="tT_Z{iTg6_]PpV.+Tp9$" x="0" y="0"></block><block type="device_button_event" id="3|GSF-#q8A{2X8b@A39n" x="174" y="197"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="i)RtLjNOo?_gPb`lt`wX"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # # # . 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="music_playable_play_default_bkg" id="UA~,hwA)@jpz,nzQ]y24"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="device_builtin_melody_playable" id="W4Gq:~z+8o,f{Eu:?]rq"><field name="melody">Melodies.JumpUp</field></shadow></value></block></next></block></statement></block><block type="device_button_event" id="#=cGbRmKY(oEMO#cz5?p" x="-20" y="556"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="0duC-mG.xe~X{AK=b9G5"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . # # # .
+        `</field><next><block type="music_playable_play_default_bkg" id="R{lA|QFKAKsNMbF1/_nW"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="device_builtin_melody_playable" id="fl7V_9(:OqKy)HP9OK9,"><field name="melody">Melodies.JumpDown</field></shadow></value></block></next></block></statement></block><block type="device_button_event" id="fOo4ys{5*}]:mgfv!@})" x="324" y="927"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="LZxfUWP0`i?z34}[5Ypk"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . # # # . 
+        # . # . # 
+        # # . # #
+        `</field><next><block type="music_playable_play_default_bkg" id="^_lQFMe]~VU!XJ)AGGc4"><field name="playbackMode">music.PlaybackMode.InBackground</field><value name="toPlay"><shadow type="device_builtin_melody_playable" id="VVJvJxnEF^s42}OOzcAw"><field name="melody">Melodies.PowerUp</field></shadow></value></block></next></block></statement></block></xml>
